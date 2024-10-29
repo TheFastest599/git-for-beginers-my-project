@@ -1,3 +1,6 @@
-Hello I am Anirban Saha of Bengal College of engineering and Technology
+Welcome to the "Git for Beginners" MyProject!
 
-Welcome to Git for beginers
+
+Author: Anirban Saha
+Twitter: @thefastest599
+website: Anirban something
