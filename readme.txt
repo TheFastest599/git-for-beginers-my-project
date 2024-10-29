@@ -1,13 +1,3 @@
-Hello how are you 
-I am Anirban Saha
-of Bengal College of Engineering and Technology
-I like studying computer Science
-Nice too meet you
+Hello I am Anirban Saha of Bengal College of engineering and Technology
 
-Author : Anirban Saha
-
-Last name : Saha
-Middle name : 599
-
-
-Twitter : @TheFastest599
+Welcome to Git for beginers
